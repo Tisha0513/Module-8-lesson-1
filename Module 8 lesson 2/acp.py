@@ -12,8 +12,6 @@ x = y
 y = z
 z = temp
 
-
-
 print("The x value after swapping:" , x)
 print("The y value after swapping:" , y)
 print("The z value after swapping:" , z)
