@@ -15,4 +15,4 @@ print("Attendance percentage:", percentage)
 if percentage < 75:
     print("You are not allowed to sit in the exam.")
 else:
-    print("You are allowed to sit in the exam.")
+    print("You are allowed to sit in the exam, ")
